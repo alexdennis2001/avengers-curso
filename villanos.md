@@ -1,4 +1,4 @@
 # Villanos
 * DR DOOM
 * Red Skull
-* AJ Simpson
+* Capitan America
